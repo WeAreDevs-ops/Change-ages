@@ -1,0 +1,13 @@
+{
+  "name": "roblox-birthdate-bypass",
+  "version": "1.0.0",
+  "main": "api/change-birthdate.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node api/change-birthdate.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {}
+}
